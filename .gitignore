@@ -1,0 +1,24 @@
+# Python cache and virtual environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Do not track __init__.py files
+__init__.py
+
+# Data and model artifacts (optional, keep if you want to exclude these)
+data/processed/
+models/checkpoints/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+
+# Logs and temp
+*.log
+*.tmp 
