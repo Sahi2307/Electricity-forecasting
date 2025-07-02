@@ -50,7 +50,7 @@ A production-grade, modular Python project for electricity demand and price fore
 
 1. **Clone the repository**
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/Sahi2307/Electricity-forecasting
    cd electricity-forecasting
    ```
 2. **Create and activate a virtual environment**
